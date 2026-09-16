@@ -1,6 +1,6 @@
-public class sampleName {
+public class Samplename {
     public static void main(String[] args) {
-        string name = "John Doe";
-        system.out.println("Hello, my name is" + name);
+        String name = "John Doe";
+        System.out.println("Hello, my name is " + name);
     }
 }
